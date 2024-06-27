@@ -16,7 +16,7 @@ This project involves comprehensive analysis and visualization of retail transac
 
 ## Technologies Used:
 - Python (Pandas, Plotly, Dash, Seaborn)
-- Tableau
+- Tableau
 
 ## Data Source
 The data was sourced from [kaggle](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset)
