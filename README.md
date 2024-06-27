@@ -5,7 +5,7 @@ This project involves comprehensive analysis and visualization of retail transac
 ## Project Structure
 - data/: Preprocessed data files.
 - scripts/: Python scripts for data preprocessing and analysis.
-- visualizations/: Tableau workbook and related visualizations.
+- visualizations/: [Tableau Dashboard](https://public.tableau.com/app/profile/segun.bakare1740/viz/RetailVisualizationDashboard/Dashboard32?publish=yes).
 
 ## Features:
 - Data preprocessing and cleaning using Python.
@@ -15,7 +15,7 @@ This project involves comprehensive analysis and visualization of retail transac
 - Detailed insights and recommendations based on data analysis.
 
 ## Technologies Used:
-- Python (Pandas, Plotly, Dash, Seaborn)
+- Python (Pandas, Seaborn, Matplotlib)
 - Tableau
 
 ## Data Source
