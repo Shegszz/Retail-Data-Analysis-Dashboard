@@ -21,27 +21,27 @@ This project involves comprehensive analysis and visualization of retail transac
 ## Python interactive visualizations
 ## Customer Segmentation Analysis
 
-- ![Average Amount Spent by Customer Segment](average_amount_spent_by_customer_segment.png)
+- ![Average Amount Spent by Customer Segment](Images/average_amount_spent_by_customer_segment.png)
 
 ### Sales Trend Analysis
 
-- ![Sales Trend Over Time](sales_trend_over_time.png)
+- ![Sales Trend Over Time](Images/sales_trend_over_time.png)
 
 ### Product Performance
-- ![Total Sales by Product Category](total_sales_by_product_category.png)
-- ![Total Sales by Product Brand](total_sales_by_product_brand.png)
-- ![Total Sales by Product Type](total_sales_by_product_type.png)
+- ![Total Sales by Product Category](Images/total_sales_by_product_category.png)
+- ![Total Sales by Product Brand](Images/total_sales_by_product_brand.png)
+- ![Total Sales by Product Type](Images/total_sales_by_product_type.png)
 
 ### Geographic Analysis
-- ![Top 10 Countries by Total Sales Amount](top_10_countries_by_total_sales_amount.png)
-- ![Top 10 States by Total Sales Amount](top_10_states_by_total_sales_amount.png)
+- ![Top 10 Countries by Total Sales Amount](Images/top_10_countries_by_total_sales_amount.png)
+- ![Top 10 States by Total Sales Amount](Images/top_10_states_by_total_sales_amount.png)
 
 ### Payment and Shipping Methods
-- ![Total Amount by Payment Method](total_amount_by_payment_method.png)
-- ![Total Amount by Shipping Method](total_amount_by_shipping_method.png)
+- ![Total Amount by Payment Method](Images/total_amount_by_payment_method.png)
+- ![Total Amount by Shipping Method](Images/total_amount_by_shipping_method.png)
 
 ### Customer Satisfaction
-![Average Ratings by Order Status](average_ratings_by_order_status.png)
+![Average Ratings by Order Status](Images/average_ratings_by_order_status.png)
 
 ## Visualization in Tableau
 - *Customer Segmentation*: Bar charts for average spend and feedback.
